@@ -1,0 +1,2 @@
+# AOC 2022
+This is a repository of my solutions to aoc 2022. I am aware not everything is optimised, however I am just trying to derive the correct answer. Unless my method is so inefficient that it takes too long (read: a few seconds) to arrive at the solution I will not be optimising the code.
